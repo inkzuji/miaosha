@@ -6,11 +6,17 @@
 
 > QQ : [3341386488](3341386488)
 
-> QQ群 :
+> QQ群1(秒杀架构一群) :
 
 ![整体流程](https://raw.githubusercontent.com/qiurunze123/imageall/master/qq.png)
 
+> QQ群2(秒杀架构二群) :
 
+![整体流程](https://raw.githubusercontent.com/qiurunze123/imageall/master/miaosha22.png)
+
+> QQ群3(多线程交流群 三高系统 -- 并发框架) :
+
+![整体流程](https://raw.githubusercontent.com/qiurunze123/imageall/master/高并发.png)
 
 [![Travis](https://img.shields.io/badge/language-Java-yellow.svg)](https://github.com/qiurunze123)
 高并发大流量如何进行秒杀架构，我对这部分知识做了一个系统的整理，写了一套系统。本GitHub还有许多其他的知识，随时欢迎探讨与骚扰！本文还在更新如果文章出现瑕疵请及时与我联系！
@@ -92,7 +98,7 @@
 #### [redis 使用与进阶以及如何进行集群--已更新](/docs/redis-good.md)
 #### [spring源码--未更新](/docs/redis-code.md)
 #### [分布式治理框架-dubbo - zk - 解析--更新中](/docs/dubbo-zk.md)
-#### [通信mq-Kafka--未更新](/docs/redis-code.md)
+#### [多线程分析以及三高多线程demo系统  ](https://github.com/qiurunze123/threadandjuc)
 #### [微服务框架--未更新](/docs/redis-code.md)
 -------------------------------------------------|
 #### [mysql数据库优化及架构学习](/docs/mysql.md)
